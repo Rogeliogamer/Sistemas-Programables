@@ -68,3 +68,70 @@
     </ul>
   </div>
 </div>
+
+<!--Subitulo-->
+<div id="user-content-toc">
+  <ul align="rigth">
+    <summary>
+      <!--Titulo-->
+      <h2 style="display: inline-block">Motor paso a paso</h2>
+      <!--Divizor horizontal (gradiant)-->
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    </summary>
+  </ul>
+</div>
+
+<div id="user-content-toc">
+  <p>
+    Este proyecto implementa el control de un motor paso a paso utilizando un Arduino UNO, explorando diversos modos de operación como pasos completos, torque aumentado y una combinación de ambos. El sistema permite controlar la dirección de rotación y detener o continuar el movimiento mediante comandos enviados desde una consola serial.
+  </p>
+  <div>
+    <ul>
+      <li>Objetivo General: Comprender el funcionamiento y control de un motor paso a paso mediante Arduino. </li>
+      <li>Marco Teórico: Explicación de los principios de operación de motores paso a paso y su control con microcontroladores. </li>
+      <li>Desarrollo: 
+        <ul>
+          <li>Materiales y Equipos: Lista de componentes necesarios, incluyendo un puente H y el motor. </li>
+          <li>Programación: Código detallado para el control del motor, con soporte para comandos en tiempo real. </li>
+          <li>Montaje del Circuito: Conexiones entre Arduino y el motor mediante un controlador. </li>
+          <li>Ejecución: Prueba del sistema y descripción de los comandos disponibles. </li>
+        </ul>
+      </li>
+      <li>Resultados: Desempeño del motor en diferentes modos de operación y análisis de su respuesta a los comandos. </li>
+      <li>Conclusiones: Evaluación de la práctica, destacando los aprendizajes en programación y control de hardware. </li>
+    </ul>
+  </div>
+</div>
+
+<!--Subitulo-->
+<div id="user-content-toc">
+  <ul align="rigth">
+    <summary>
+      <!--Titulo-->
+      <h2 style="display: inline-block">Lectura análoga</h2>
+      <!--Divizor horizontal (gradiant)-->
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    </summary>
+  </ul>
+</div>
+
+<div id="user-content-toc">
+  <p>
+    Este proyecto implementa un sistema de monitoreo de voltaje utilizando un Arduino UNO, un conversor analógico-digital (ADC) integrado y LEDs como indicadores visuales. El objetivo principal es representar diferentes niveles de voltaje mediante LEDs de colores, permitiendo una interpretación rápida y clara del estado de la señal analógica.
+  </p>
+  <div>
+    <ul>
+      <li>Objetivo General: Diseñar un sistema para medir y representar visualmente niveles de voltaje mediante LEDs controlados por un Arduino. </li>
+      <li>Marco Teórico: Introducción al funcionamiento de señales analógicas, el uso del ADC del Arduino, y la representación del voltaje en niveles óptimos, medios y bajos. </li>
+      <li>Desarrollo: 
+        <ul>
+          <li>Materiales y Equipos: Detalle de los componentes, incluyendo LEDs, resistencias y protoboard. </li>
+          <li>Procedimiento: Ensamblaje del circuito y programación del Arduino. </li>
+          <li>Código: Implementación del control lógico para interpretar y visualizar los niveles de voltaje. </li>
+        </ul>
+      </li>
+      <li>Resultados: Desempeño del sistema al mostrar niveles de voltaje en tiempo real y eficiencia en la visualización de cambios significativos. </li>
+      <li>Conclusiones: Evaluación del sistema y sus aplicaciones potenciales, como monitoreo de baterías o advertencia de sobrecarga. </li>
+    </ul>
+  </div>
+</div>
